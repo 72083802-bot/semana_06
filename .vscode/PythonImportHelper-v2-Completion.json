@@ -4,7 +4,7 @@
         "kind": 5,
         "importPath": "semana6",
         "description": "semana6",
-        "peekOfCode": "nombre = input(\"Nombre: \")\nedad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "peekOfCode": "nombre = input(\"Nombre: \")\nedad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)\nsemestre = input(\"semestre: \")\ncarrera = input(\"carrera: \")\nprint(\"semestre:\", semestre)\nprint(\"carrera:\", carrera)",
         "detail": "semana6",
         "documentation": {}
     },
@@ -13,7 +13,7 @@
         "kind": 5,
         "importPath": "semana6",
         "description": "semana6",
-        "peekOfCode": "edad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "peekOfCode": "edad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)\nsemestre = input(\"semestre: \")\ncarrera = input(\"carrera: \")\nprint(\"semestre:\", semestre)\nprint(\"carrera:\", carrera)",
         "detail": "semana6",
         "documentation": {}
     },
@@ -22,7 +22,25 @@
         "kind": 5,
         "importPath": "semana6",
         "description": "semana6",
-        "peekOfCode": "altura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "peekOfCode": "altura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)\nsemestre = input(\"semestre: \")\ncarrera = input(\"carrera: \")\nprint(\"semestre:\", semestre)\nprint(\"carrera:\", carrera)",
+        "detail": "semana6",
+        "documentation": {}
+    },
+    {
+        "label": "semestre",
+        "kind": 5,
+        "importPath": "semana6",
+        "description": "semana6",
+        "peekOfCode": "semestre = input(\"semestre: \")\ncarrera = input(\"carrera: \")\nprint(\"semestre:\", semestre)\nprint(\"carrera:\", carrera)",
+        "detail": "semana6",
+        "documentation": {}
+    },
+    {
+        "label": "carrera",
+        "kind": 5,
+        "importPath": "semana6",
+        "description": "semana6",
+        "peekOfCode": "carrera = input(\"carrera: \")\nprint(\"semestre:\", semestre)\nprint(\"carrera:\", carrera)",
         "detail": "semana6",
         "documentation": {}
     }
