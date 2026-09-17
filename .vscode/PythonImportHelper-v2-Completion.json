@@ -1,0 +1,29 @@
+[
+    {
+        "label": "nombre",
+        "kind": 5,
+        "importPath": "semana6",
+        "description": "semana6",
+        "peekOfCode": "nombre = input(\"Nombre: \")\nedad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "detail": "semana6",
+        "documentation": {}
+    },
+    {
+        "label": "edad",
+        "kind": 5,
+        "importPath": "semana6",
+        "description": "semana6",
+        "peekOfCode": "edad = input(\"Edad: \")\naltura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "detail": "semana6",
+        "documentation": {}
+    },
+    {
+        "label": "altura",
+        "kind": 5,
+        "importPath": "semana6",
+        "description": "semana6",
+        "peekOfCode": "altura = input(\"Altura: \")\nprint(\"Nombre:\", nombre)\nprint(\"Edad:\", edad)\nprint(\"Altura:\", altura)",
+        "detail": "semana6",
+        "documentation": {}
+    }
+]
