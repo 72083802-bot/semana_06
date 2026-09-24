@@ -1,0 +1,101 @@
+[
+    {
+        "label": "lo_que_sea",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "lo_que_sea = input()\nprint(\"Hmm... \", lo_que_sea, \"... ¿en serio? \")\n#la funcion input() con un argumento\nlo_que_sea = input(\"dime lo que sea: \")\nprint(\"Hmm... \", lo_que_sea, \"... ¿en serio? \")\nnumero = int(input(\"ingresa un numero: \"))\nresultado = numero ** 2.0\nprint (numero, \"al cuadrado es\", resultado)\n#calcular hipotenusa \nleg_a = float(input(\"Ingresa la longitud del primer cateto: \"))",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "lo_que_sea",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "lo_que_sea = input(\"dime lo que sea: \")\nprint(\"Hmm... \", lo_que_sea, \"... ¿en serio? \")\nnumero = int(input(\"ingresa un numero: \"))\nresultado = numero ** 2.0\nprint (numero, \"al cuadrado es\", resultado)\n#calcular hipotenusa \nleg_a = float(input(\"Ingresa la longitud del primer cateto: \"))\nleg_b = float(input(\"Ingresa la longitud del segundo cateto: \"))\nhypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "numero = int(input(\"ingresa un numero: \"))\nresultado = numero ** 2.0\nprint (numero, \"al cuadrado es\", resultado)\n#calcular hipotenusa \nleg_a = float(input(\"Ingresa la longitud del primer cateto: \"))\nleg_b = float(input(\"Ingresa la longitud del segundo cateto: \"))\nhypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)\n#OPERADORES CADENA\nText1 = \"ALEXANDER\"",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "resultado",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "resultado = numero ** 2.0\nprint (numero, \"al cuadrado es\", resultado)\n#calcular hipotenusa \nleg_a = float(input(\"Ingresa la longitud del primer cateto: \"))\nleg_b = float(input(\"Ingresa la longitud del segundo cateto: \"))\nhypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)\n#OPERADORES CADENA\nText1 = \"ALEXANDER\"\nText2 = \"PAPULEX\"",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "leg_a",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "leg_a = float(input(\"Ingresa la longitud del primer cateto: \"))\nleg_b = float(input(\"Ingresa la longitud del segundo cateto: \"))\nhypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)\n#OPERADORES CADENA\nText1 = \"ALEXANDER\"\nText2 = \"PAPULEX\"\nprint(Text1 * Text2)\nfnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "leg_b",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "leg_b = float(input(\"Ingresa la longitud del segundo cateto: \"))\nhypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)\n#OPERADORES CADENA\nText1 = \"ALEXANDER\"\nText2 = \"PAPULEX\"\nprint(Text1 * Text2)\nfnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "hypo",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "hypo = (leg_a**2 + leg_b**2) ** .5\nprint(\"La longitud de la hipotenusa es:\", hypo)\n#OPERADORES CADENA\nText1 = \"ALEXANDER\"\nText2 = \"PAPULEX\"\nprint(Text1 * Text2)\nfnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")\nprint(\"\\nTu nombre es \" + fnam + \" \" + lnam + \".\")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "Text1",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "Text1 = \"ALEXANDER\"\nText2 = \"PAPULEX\"\nprint(Text1 * Text2)\nfnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")\nprint(\"\\nTu nombre es \" + fnam + \" \" + lnam + \".\")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "Text2",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "Text2 = \"PAPULEX\"\nprint(Text1 * Text2)\nfnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")\nprint(\"\\nTu nombre es \" + fnam + \" \" + lnam + \".\")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "fnam",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "fnam = input(\"¿Me puedes dar tu nombre por favor? \")\nlnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")\nprint(\"\\nTu nombre es \" + fnam + \" \" + lnam + \".\")",
+        "detail": "tre",
+        "documentation": {}
+    },
+    {
+        "label": "lnam",
+        "kind": 5,
+        "importPath": "tre",
+        "description": "tre",
+        "peekOfCode": "lnam = input(\"¿Me puedes dar tu apellido por favor? \")\nprint(\"Gracias. \")\nprint(\"\\nTu nombre es \" + fnam + \" \" + lnam + \".\")",
+        "detail": "tre",
+        "documentation": {}
+    }
+]
