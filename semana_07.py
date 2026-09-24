@@ -4,4 +4,3 @@
 # COMENTARIO DE madison
 print ("buenos dias")
 >>>>>>> rama-semana07
-print("hola")
