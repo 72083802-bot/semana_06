@@ -24,3 +24,24 @@ print("\nla suma es:" + str(suma))
 print("la resta es:" + str(resta))
 print("la multiplicación es:" + str(multi))
 print("la división es:" + str(divicion))
+
+
+# COMPARACIÓN: OPERADORES DE IGUALDAD
+print(2 == 2)
+print(2 == 6)
+print("si" == "si")
+print(2 == 2.5)
+print(2 == 2**2)
+#Igualdad: El operador igual a (==)
+var = 0  # Asignando 0 a var
+print(var == 0)
+
+var = 1  # Asignando 1 a var
+print(var == 0)
+
+#Desigualdad: el operador no es igual a (!=)
+var = 0  # Asignando 0 a var
+print(var != 0)
+
+var = 1  # Asignando 1 a var
+print(var != 0)
